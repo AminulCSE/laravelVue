@@ -1,0 +1,7 @@
+**********Tutorial link********https://www.youtube.com/watch?v=odhGlZsUx1Q&list=PLzBl445W4ievgDaLd-axBxCmCCWd3afYm&index=9************
+
+1. Progress bar for on to: https://github.com/hilongjw/vue-progressbar
+2. Vue snotyfire to use notification in vue js: https://artemsky.github.io/vue-snotify/documentation/installation.html
+3. Pagination for laravel Vue js: https://snippets.cacher.io/snippet/b665b3b978713be9cdae
+4. Fontwsome link: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+5. Vform for vue js form validation: 

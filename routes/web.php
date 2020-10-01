@@ -21,5 +21,5 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-// Customer single controller
-Route::get('/customers', 'CustomerController')->name('custmers');
+// Customer single controller _invoke
+Route::get('/customers', 'CustomerController')->name('customers');

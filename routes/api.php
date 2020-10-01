@@ -17,3 +17,8 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+Route::apiResource('customers', 'CustomerController');
+
+// Search route here
+Route::get('search/customers/{field}/{query}', 'CustomerController@search');
